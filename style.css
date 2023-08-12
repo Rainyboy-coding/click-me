@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://github.com/Rainyboy-coding/click-me/blob/main/frank-mckenna-eXHeq48Z-Q4-unsplash.jpg?raw=true");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Great Vibes", cursive;
+  text-align: center;
+}
+
+.container {
+  padding: 50px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 28px;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
